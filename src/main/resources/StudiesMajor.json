@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Informatyka",
+    "nameEn" : "Computer science"
+  },
+  {
+    "name" : "Matematyka",
+    "nameEn" : "Mathematics"
+  },
+  {
+    "name" : "Nauczanie Matematyki i Informatyki",
+    "nameEn" : "Mathematics and computer science for teachers"
+  },
+  {
+    "name" : "Analiza i przetwarzanie danych",
+    "nameEn" : "Data analysis and processing"
+  },
+  {
+    "name" : "Informatyka (ANG)",
+    "nameEn" : "Computer Science in English"
+  },
+  {
+    "name" : "Matematyka (ANG)",
+    "nameEn" : "Mathematics in English"
+  }
+]
