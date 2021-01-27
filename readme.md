@@ -6,7 +6,7 @@ nauczanych na powyżej wspomnianym wydziale. Umożliwia studentom dzielenie się
 
 <h2> Niezbędnik Studenta - Frontend </h2>
 Aby korzystać z pełni funkconalnej aplikacji Niezbędnik Studenta należy także zapoznać się z częścią frontendową
-aplikacji, znajdującą się https://github.com/PhillJaySaw/NiezbednikStudentaFront
+aplikacji, znajdującą się https://github.com/PhillJaySaw/niezbednik-studenta-front-open
 
 <h2> Praca z Niezbędnik Studenta w twoim IDE </h2>
 Na twoim komputerze musisz mieć zainstalowane: Java 11 oraz preferowane przez Ciebie IDE (IntelliJ IDEA, Eclipse, itp.)
