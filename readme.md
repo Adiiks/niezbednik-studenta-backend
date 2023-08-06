@@ -32,20 +32,20 @@ Aplikacja łączy się z systemem USOS w celu autentykacji użytkowników. Użyt
 - dodawanie/usuwanie plików do/z przedmiotów (np. notatki z zajęć)
 - przegląd listy plików dodanych do danego przedmiotu
 
-  <h2> Ogłoszenia, Korepetycje </h2>
+<h2> Ogłoszenia, Korepetycje </h2>
 
-  - dodawanie, usuwanie, aktualizowanie ogłoszeń/korepetycji
-  - przegląd ogłoszeń/korepetycji
-  - zgłaszanie cheć udziału w korepetycjach
+- dodawanie, usuwanie, aktualizowanie ogłoszeń/korepetycji
+- przegląd ogłoszeń/korepetycji
+- zgłaszanie cheć udziału w korepetycjach
  
-  <h2> Powiadomienia </h2>
+<h2> Powiadomienia </h2>
 
-  Wysyłanie i odczytywanie powiadomień przy pomocy Firebase Cloud Messages
+Wysyłanie i odczytywanie powiadomień przy pomocy Firebase Cloud Messages
 
-  <h2> Zgłoszenia do adminów </h2>
+<h2> Zgłoszenia do adminów </h2>
 
-  - utworzenie, usuwanie zgłoszenia
-  - przegląd zgłoszeń
+- utworzenie, usuwanie zgłoszenia
+- przegląd zgłoszeń
 
 <h2> Niezbędnik Studenta - Frontend </h2>
 Aby korzystać z pełni funkconalnej aplikacji Niezbędnik Studenta należy także zapoznać się z częścią frontendową
