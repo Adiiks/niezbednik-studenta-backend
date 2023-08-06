@@ -2,7 +2,50 @@
 
 Jest to część backendowa aplikacji społecznościowej Niezbędnik Studenta, która jest przeznaczona dla studentów wydziału 
 Matematyki i Informatyki Uniwersytetu im. Adama Mickiewicza. Aplikacja stanowi repozytorium wiedzy na temat przedmiotów
-nauczanych na powyżej wspomnianym wydziale. Umożliwia studentom dzielenie się wiedzą oraz materiałami naukowymi.
+nauczanych na powyżej wspomnianym wydziale. Umożliwia studentom dzielenie się wiedzą oraz materiałami naukowymi. Aplikacja składa się z następujących modułów:
+
+<h2> Autentykacja i autoryzacja </h2>
+
+Aplikacja łączy się z systemem USOS w celu autentykacji użytkowników. Użytkownicy mogą posiadać jedną z dwóch lub obie role (zalogowany użytkownik, admin).
+
+<h2> Forum </h2>
+
+- dodawanie, usuwanie, edytowanie postów/komentarzy
+- przeglądanie postów/komentarzy
+- likowanie postów/komentarzy
+- akceptowanie komentarza jako znalezionej odpowiedzi na zadane pytanie (podobnie jak na stackoverflow)
+
+<h2> Prowadzący zajęcia </h2>
+
+- przeglądanie listy osób, które prowadzą zajęcia na uczelni
+- dodawnie, aktualizowanie, usuwanie prowadzących
+- przeglądanie przedmiotów nauczanych przez danego prowadzącego
+
+<h2> Przedmioty (zajecia) </h2>
+
+- przeglądanie listy przedmiotów
+- dodawanie, aktualizowanie, usuwanie przedmiotów
+- dołączanie do przedmiotu (aby uzyskać dostęp do takcih rzeczy jak np. forum dotyczące tego przedmiotu)
+- opuszczanie przedmiotu
+- przegląd uczestników należących do danego przedmiotu
+- przegląd wszystkich przedmiotów, do któych zapisał się użytkownik
+- dodawanie/usuwanie plików do/z przedmiotów (np. notatki z zajęć)
+- przegląd listy plików dodanych do danego przedmiotu
+
+  <h2> Ogłoszenia, Korepetycje </h2>
+
+  - dodawanie, usuwanie, aktualizowanie ogłoszeń/korepetycji
+  - przegląd ogłoszeń/korepetycji
+  - zgłaszanie cheć udziału w korepetycjach
+ 
+  <h2> Powiadomienia </h2>
+
+  Wysyłanie i odczytywanie powiadomień przy pomocy Firebase Cloud Messages
+
+  <h2> Zgłoszenia do adminów </h2>
+
+  - utworzenie, usuwanie zgłoszenia
+  - przegląd zgłoszeń
 
 <h2> Niezbędnik Studenta - Frontend </h2>
 Aby korzystać z pełni funkconalnej aplikacji Niezbędnik Studenta należy także zapoznać się z częścią frontendową
